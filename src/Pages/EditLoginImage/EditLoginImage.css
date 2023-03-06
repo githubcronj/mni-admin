@@ -1,0 +1,43 @@
+.editloginimage{
+    background-color: #FAFAFA;
+    padding: 15px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+}
+.img-upload{
+    border: #8D877F80 dashed 2px;
+    width: 70%;
+    border-radius: 20px;
+    text-align: center ;
+
+}
+.img-content{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.selectfile{
+    color: #272727;
+    letter-spacing: 0.1px !important;  
+    
+}
+.filetype{
+    color: #6D6D6D;
+    letter-spacing: 0.08px !important;
+}
+.selectfilebtn{
+    color: #FF9A33 !important;
+    background: #fff !important;
+    text-transform: none !important;
+    cursor: pointer;
+    width: 150px;
+}
+.changeimage{
+    width: 200px !important;
+    cursor: pointer;
+}
+@media (max-width:700px) {
+    .editloginimage{
+        width: 100% ;
+        margin-left: 0px;
+    }
+}

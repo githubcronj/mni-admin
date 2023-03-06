@@ -1,0 +1,7 @@
+.modalBox{
+    text-align: center;
+}
+.modalbox2{
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+}

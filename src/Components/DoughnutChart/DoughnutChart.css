@@ -1,0 +1,9 @@
+
+  .doughnutchartBody{
+    /* width: calc(100%-240px);
+    margin-left: 240px; */
+    background-color: #ffffff;
+  }
+  .textBold{
+    font-weight: 700 !important;
+  }

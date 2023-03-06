@@ -1,0 +1,79 @@
+.edittestimonialspage{
+    background-color: #FAFAFA;
+    padding: 15px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+}
+.changeProfilebtn{
+    background-color: #ffffff !important;
+    color: #FF9A33 !important;
+    border: 1px solid #FF9A33 !important;
+    border-radius: 10px;
+    height: 50px !important;
+    width: 200px !important;
+    position: absolute;
+    left: 115px;
+    bottom: 20px;
+}
+.profilePicture{
+    width: 260px !important;
+    /* height: 330px !important; */
+}
+.testimonialText{
+font-size: 24px;
+color: #000000; 
+margin-left: 5px;
+}
+.savechangebtn{
+    background-color:#FF9A33 ;
+    color: #ffffff;
+    font-weight: 600;
+    width: 150px !important;
+}
+.discardbtn{
+    color: #FF9A33 !important;
+    background-color: #ffffff !important;
+    border: 1px solid #dddddd !important;
+    width: 150px !important;
+}
+@media(max-width:1440px){
+    .changeProfilebtn{
+    left: 115px;
+    }}
+@media(max-width:1024px){
+.changeProfilebtn{
+left: 33px;
+}}
+@media(max-width:768px){
+    .changeProfilebtn{
+    left: 90px;
+    }}
+@media (max-width:700px) {
+    .edittestimonialspage{
+        width: 100% ;
+        margin-left: 0px;
+    }
+    .profilePicture{
+        width: 90%;
+    }
+    .changeProfilebtn{
+        left: 90px;
+        }
+    .testimonialText{
+        font-size: 18px;
+        }
+}
+@media(max-width:468px){
+    .changeProfilebtn{
+    left: 20px;
+    }
+    .profilePicture {
+        width: 200px !important;
+        /* height: 330px !important; */
+    }}
+    @media(max-width:320px){
+        .changeProfilebtn{
+        left: 0px;
+        }
+    }
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_14084" data-name="Group 14084" transform="translate(-465 -235)">
+    <g id="ic-sessions" transform="translate(465 235)">
+      <g id="Oval" fill="#fff7ef" stroke="#f8e9db" stroke-width="1">
+        <circle cx="32" cy="32" r="32" stroke="none"/>
+        <circle cx="32" cy="32" r="31.5" fill="none"/>
+      </g>
+      <g id="Group_14111" data-name="Group 14111" transform="translate(-1182 -319.5)">
+        <path id="Path_372" data-name="Path 372" d="M0,0H32V32.008H0Z" transform="translate(1198 335.5)" fill="none"/>
+        <path id="Path_10353" data-name="Path 10353" d="M22.876,2H10.948C4.983,2,3.5,3.594,3.5,9.953V27.72c0,4.2,2.3,5.191,5.1,2.193l.016-.016A2.775,2.775,0,0,1,13,30.134l1.594,2.13a2.743,2.743,0,0,0,4.623,0l1.594-2.13a2.773,2.773,0,0,1,4.4-.237c2.809,3,5.1,2,5.1-2.193V9.953C30.324,3.594,28.841,2,22.876,2Zm-10.7,7.889A1.578,1.578,0,1,1,10.6,11.467,1.583,1.583,0,0,1,12.178,9.889Zm9.467,11.045a1.578,1.578,0,1,1,1.578-1.578A1.572,1.572,0,0,1,21.646,20.935Zm1.42-10.114L12.447,21.44a1.181,1.181,0,0,1-1.673,0,1.191,1.191,0,0,1,0-1.673L21.393,9.148a1.183,1.183,0,1,1,1.673,1.673Z" transform="translate(1196.5 334)" fill="#ff9a33"/>
+      </g>
+    </g>
+  </g>
+</svg>

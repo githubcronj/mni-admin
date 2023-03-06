@@ -1,0 +1,26 @@
+.vt-heading-Style {
+  color: #272727;
+  font-weight: bold !important;
+  opacity: 1;
+}
+
+.vt-subheading {
+  color: #6d6d6d;
+  opacity: 1;
+  padding-bottom: 10px;
+}
+.vt-pendingtext {
+  background-color: #f0f0f0;
+  text-align: center;
+  width: 115px;
+  height: 33px;
+}
+
+@media (max-width: 700px) {
+  .vt-headpadding {
+    padding-bottom: 1rem;
+  }
+  .vt-heading-Style {
+    padding-bottom: 1rem;
+  }
+}

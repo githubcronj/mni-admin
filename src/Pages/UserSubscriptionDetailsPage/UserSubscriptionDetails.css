@@ -1,0 +1,50 @@
+.moredetailsPage{
+    background-color: #FAFAFA;
+    padding: 20px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+    
+}
+.startupText{
+    font-size: 25px !important;
+    margin-left: 10px;
+}
+.blockbtnbox{
+    float: left !important;
+}
+.blockbtn{
+    width: 150px !important;
+    padding: 10px;
+    border: 1px solid #F0142F !important;
+}
+.textBold{
+    font-weight: 800 !important;
+   
+}
+.textBold2{
+    font-weight: 600 !important;
+   
+}
+.BasicItems{
+    text-align: center;
+    padding: 20px 10px;
+    align-items: center;
+}
+.BasicItems2{
+    
+    padding: 20px 20px;
+    
+}
+@media (max-width:700px) {
+    .moredetailsPage{
+        width: 100% ;
+        margin-left: 0px;
+    }
+
+}
+@media (max-width:468px) {
+    .startupText{
+        font-size: 18px !important;
+        
+    }
+}

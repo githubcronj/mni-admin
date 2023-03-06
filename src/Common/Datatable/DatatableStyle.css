@@ -1,0 +1,16 @@
+/* ---------------DTHEAD---------------------- */
+.tablehead-dt {
+  background-color: #fff7ef;
+  border: 1px solid #f8e9db;
+  border-radius: 6px;
+  opacity: 1;
+}
+
+/* --------------------ActionButton------------- */
+.more-details-actionbtn {
+  color: #ff9a33!important;
+  padding-right: 12px;
+}
+.block-actionbtn {
+  color: #f0142f;
+}

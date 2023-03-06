@@ -1,0 +1,49 @@
+*{
+    font-size: poppins;
+}
+.logoGrid{
+    background-color: #FFF7EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formGrid{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.loginPageGrid{
+    height: 100vh;
+    overflow: auto;
+}
+.panelHeading{
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    text-align: center;
+}
+.forgotPassword{
+    color: #6D6D6D !important;
+    display: flex;
+    text-decoration-color: #6D6D6D !important;
+    align-items: center;
+    margin-left: 150px !important;
+    cursor: pointer;
+}
+@media (max-width: 1024px){
+    .forgotPassword{
+        margin-left: 100px !important;
+    }
+    .loginPageGrid{
+        height: 800px;
+    }
+}
+@media (max-width: 830px){
+.forgotPassword {
+    margin-left: 55px !important;
+}
+}
+@media (max-width: 400px){
+    .forgotPassword {
+        margin-left: 15px !important;
+    }
+    }

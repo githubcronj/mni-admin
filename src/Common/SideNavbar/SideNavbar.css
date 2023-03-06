@@ -1,0 +1,21 @@
+/* .css-d9ml5t-MuiDrawer-docked .MuiDrawer-paper{
+} */
+.appbarStyle{
+    background-color:#FF9A33 ;
+    height:50px;
+}
+#active{
+    color: #FF9A33 !important;
+    background-color: antiquewhite;
+    border-left: 4px solid #FF9A33;
+}
+.menuStyle:hover{
+    background-color: antiquewhite !important;
+}
+.menuStyle{
+    font-size: 14px !important;
+    color: #272727;
+}
+.listStyling{
+    margin-top: 50px !important;
+}

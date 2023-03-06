@@ -1,0 +1,23 @@
+.dashboardPage{
+    background-color: #FAFAFA;
+    padding: 15px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+}
+.WebsiteTrafficP{
+    text-align: center;
+    margin-left: 25px;
+}
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+    color:#FF9A33;
+}
+.dashbordcard{
+display: flex;
+justify-content: space-evenly;
+}
+@media (max-width:700px) {
+    .dashboardPage{
+        width: 100% ;
+        margin-left: 0px;
+    }
+}

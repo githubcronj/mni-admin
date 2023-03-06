@@ -1,0 +1,56 @@
+.blockButton{
+    width: 180px ;
+    padding: 10px !important;
+ }
+ .rootStyle1{
+    width: calc(100% - 240px);
+    margin-left: 240px;
+ }
+ .blockButton:hover{
+     background-color: #F01731 !important;
+ }
+ .tableHeading{
+     font-size: 20px;
+     font-weight: 600 !important;
+ }
+ 
+ .premiumStyle1{
+     background-color: rgba(109, 109, 109 , 0.2) !important;
+     color: #138707 !important;
+     text-transform: none !important;
+     width: 130px !important;
+     border-radius: 6px !important;
+ }
+ .basicStyle1{
+     background-color: rgba(109, 109, 109 , 0.2) !important;
+     color: #F0142F !important;
+     text-transform: none !important;
+     text-decoration: none !important;
+     
+     width: 130px !important;
+     border-radius: 6px !important;
+ }
+ .diffrentStyle1{
+    background-color: rgba(109, 109, 109 , 0.2) !important;
+    color: #FF9A33 !important;
+    text-transform: none !important;
+    width: 130px !important;
+    border-radius: 6px !important;
+}
+ .headTableCell{
+    font-size:16px !important;
+    font-weight:600 !important;
+    padding:15px 20px !important;
+ }
+ .statusActive{
+    color:#3CD598 !important;
+ }
+ .statusDeactive{
+    color:#F0142F !important;
+     }
+     @media (max-width:700px) {
+        .rootStyle1{
+            width: 100% ;
+            margin-left: 0px;
+        }
+    }

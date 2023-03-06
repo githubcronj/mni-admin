@@ -1,0 +1,35 @@
+/* .testimonialmodal{
+    background-color: #FAFAFA;
+    padding: 15px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+} */
+.modalsbox{
+    
+    border:1px solid #dddddd;
+    border-radius: 5px;
+    padding:10px;
+    margin:13px 7px;
+}
+.modalbox{
+    width: 420px;
+}
+.modalbox .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root {
+    color:#FF9A33 ;
+}
+.modalbox .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+    color: #FF9A33;
+}
+.deletebtn{
+    width: 100px !important;
+   
+}
+@media (max-width:700px) {
+    .testimonialmodal{
+        width: 100% ;
+        margin-left: 0px;
+    }
+    .modalbox{
+        width: 300px;
+    }
+}

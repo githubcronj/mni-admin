@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_14080" data-name="Group 14080" transform="translate(-2884 -237)">
+    <path id="Path_372" data-name="Path 372" d="M0,0H24V24H0Z" transform="translate(2884 237)" fill="none"/>
+    <g id="calendar_1_" data-name="calendar (1)" transform="translate(2886 239)">
+      <path id="Path_10342" data-name="Path 10342" d="M0,17.751a4.243,4.243,0,0,0,4.167,4.306H15.833A4.243,4.243,0,0,0,20,17.751V10H0Zm14.167-3.876a1.293,1.293,0,1,1-1.25,1.292A1.271,1.271,0,0,1,14.167,13.876Zm-4.167,0a1.293,1.293,0,1,1-1.25,1.292A1.271,1.271,0,0,1,10,13.876Zm-4.167,0a1.293,1.293,0,1,1-1.25,1.292,1.271,1.271,0,0,1,1.25-1.292Z" transform="translate(0 -2.057)" fill="#ff9a33"/>
+      <path id="Path_10343" data-name="Path 10343" d="M15.833,1.722H15V.861a.834.834,0,1,0-1.667,0v.861H6.667V.861A.834.834,0,1,0,5,.861v.861H4.167A4.243,4.243,0,0,0,0,6.029V6.89H20V6.029A4.243,4.243,0,0,0,15.833,1.722Z" fill="#ff9a33"/>
+    </g>
+  </g>
+</svg>

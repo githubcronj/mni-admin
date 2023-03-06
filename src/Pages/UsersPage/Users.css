@@ -1,0 +1,23 @@
+.userspage{
+    background-color: #FAFAFA;
+    padding: 15px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+}
+.textBold{
+    font-weight: 800;
+}
+.AddnewBtn{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 200px;
+}
+.loginbox .css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked {
+    color: rgb(255, 154, 51);
+}
+@media (max-width:700px) {
+    .userspage{
+        width: 100% ;
+        margin-left: 0px;
+    }
+}

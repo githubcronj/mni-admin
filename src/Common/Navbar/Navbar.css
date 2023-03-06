@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+.appbarStyle {
+  background-color: #ff9a33;
+  height: 50px;
+}
+#active {
+  color: #ff9a33 !important;
+  background-color: antiquewhite;
+  border-left: 4px solid #ff9a33;
+}
+.menuStyle:hover {
+  background-color: antiquewhite !important;
+}
+.menuStyle {
+  font-size: 14px !important;
+  color: #272727;
+}
+.listStyling {
+  margin-top: 50px !important;
+}
+
+.image-style {
+  width: 15%;
+}
+
+@media (max-width: 600px) {
+  .image-style {
+    width: 40%;
+  }
+}

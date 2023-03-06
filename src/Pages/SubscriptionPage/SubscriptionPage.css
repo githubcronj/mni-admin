@@ -1,0 +1,29 @@
+.subscriptionPage{
+    background-color: #FAFAFA;
+    padding: 15px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+}
+
+.togglebtn .css-ueukts-MuiButtonBase-root-MuiToggleButton-root.Mui-selected {
+    color: #ffffff;
+    background-color:#FF9A33 ;
+    font-weight: 600;
+}
+.togglebtn{
+    padding: 10px;
+    background-color: #ffffff;
+    
+}
+.togglebtn .css-1gjgmky-MuiToggleButtonGroup-root .MuiToggleButtonGroup-grouped:not(:last-of-type) {
+    font-weight: 600;
+}
+.togglebtn .css-1gjgmky-MuiToggleButtonGroup-root .MuiToggleButtonGroup-grouped:not(:first-of-type) {
+    font-weight: 600;
+}
+@media (max-width:700px) {
+    .subscriptionPage{
+        width: 100% ;
+        margin-left: 0px;
+    }
+}

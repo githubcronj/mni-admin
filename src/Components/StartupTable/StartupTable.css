@@ -1,0 +1,26 @@
+.blockButton{
+    width: 180px ;
+    padding: 10px !important;
+ }
+ .blockButton:hover{
+     background-color: #F01731 !important;
+ }
+ .tableHeading{
+     font-size: 20px;
+     font-weight: 600 !important;
+ }
+ 
+ .premiumStyle{
+     background-color: rgba(19, 135, 7, 0.2) !important;
+     color: #138707 !important;
+     text-transform: none !important;
+     width: 100px !important;
+     border-radius: 6px !important;
+ }
+ .basicStyle{
+     background-color: rgba(109, 109, 109 , 0.2) !important;
+     color: #6D6D6D !important;
+     text-transform: none !important;
+     width: 100px !important;
+     border-radius: 6px !important;
+ }

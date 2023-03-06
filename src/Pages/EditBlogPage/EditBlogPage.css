@@ -1,0 +1,76 @@
+.kiHXWb {
+  display: none !important;
+}
+
+.editblog-page {
+  background-color: #fafafa;
+  padding: 40px 0px;
+  width: calc(100% - 240px);
+  margin-left: 240px;
+}
+
+.eb-img-position {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-bottom: 10px;
+  max-width: 100%;
+}
+.eb-txtclr {
+  color: #6d6d6d;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 12px !important;
+}
+.eb-headingstyle {
+  opacity: 0.99;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold !important;
+  margin-left: 0.5rem !important;
+}
+
+.eb-savechangebtn {
+  background-color: #ff9a33;
+  color: #ffffff;
+  font-weight: 600;
+  width: 150px !important;
+}
+.eb-cancelbtn {
+  color: #ff9a33 !important;
+  background-color: #ffffff !important;
+  border: 1px solid #dddddd !important;
+  width: 150px !important;
+}
+@media (max-width: 700px) {
+  .editblog-page {
+    width: 100%;
+    margin-left: 0px;
+  }
+}
+/* @media (min-width: 1440px) {
+  .eb-savechangebtn {
+    margin-left: 720px !important;
+  }
+}
+@media (max-width: 1124px) {
+  .eb-savechangebtn {
+    margin-left: 400px !important;
+  }
+}
+@media (max-width: 1024px) {
+  .eb-savechangebtn {
+    margin-left: 360px !important;
+  }
+}
+@media (max-width: 890px) {
+  .eb-savechangebtn {
+    margin-left: 50px !important;
+  }
+}
+@media (max-width: 650px) {
+  .eb-savechangebtn {
+    margin-left: 0px !important;
+  }
+} */

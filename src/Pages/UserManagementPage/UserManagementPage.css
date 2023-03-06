@@ -1,0 +1,6 @@
+.UserManagementPageRoot{
+    background-color: #FAFAFA;
+    padding: 15px 0px;
+    width: calc(100% - 240px) ;
+    margin-left: 240px;
+}

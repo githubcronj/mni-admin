@@ -1,0 +1,71 @@
+.editdetailspage {
+  background-color: #fafafa;
+  padding: 15px 0px;
+  width: calc(100% - 240px);
+  margin-left: 240px;
+}
+.editchangeProfilebtn {
+  background-color: #ffffff !important;
+  color: #ff9a33 !important;
+  border: 1px solid #ff9a33 !important;
+  border-radius: 10px;
+  height: 50px !important;
+  width: 200px !important;
+  position: absolute;
+  left: 65px;
+  bottom: 20px;
+}
+.editprofilePicture{
+    width:330px!important;
+    height: 100% !important;
+}
+.savechangebtn {
+  background-color: #ff9a33;
+  color: #ffffff;
+  font-weight: 600;
+  width: 150px !important;
+}
+.discardbtn {
+  color: #ff9a33 !important;
+  background-color: #ffffff !important;
+  border: 1px solid #dddddd !important;
+  width: 150px !important;
+}
+.btnbox {
+  position: relative;
+}
+.editDetailsBox{
+    padding: 50px;
+}
+@media (max-width:1024px) {
+    .editprofilePicture{
+        width:300px!important;
+        height: 100% !important;
+    }
+    .editchangeProfilebtn{
+        left: 54px;
+    }
+    
+}
+@media (max-width:700px) {
+    .editdetailspage{
+        width: 100% ;
+        margin-left: 0px;
+    }
+    .editDetailsBox{
+        padding: 20px;
+    }
+}
+@media (max-width:320px) {
+    .editprofilePicture{
+        width:270px!important;
+        height: 100% !important;
+    }
+    
+    .editDetailsBox{
+        padding: 5px;
+    }
+    .editchangeProfilebtn{
+        left: 32px;
+    }
+}
